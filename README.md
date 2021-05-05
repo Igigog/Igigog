@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 
             Discord: Igigog#6387
-            E-Mail: igigog21@gmail.com
+            E-Mail: id.anpilogov@gmail.com
 
 <!---
 Igigog/Igigog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
