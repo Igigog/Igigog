@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Igigog
-- 👀 I’m interested in code architecture, modding in general and quests in particular.
-- 🌱 I’m currently working on procedural quests.
-- 💞️ I’m looking to collaborate on Weird Tasks Framework (Stalker Anomaly mod).
+- 👀 Probably sleeping.
+- 🌱 Privacy and sustainability nerd. Find me repairing my wooden stick.
+- 💞️ Single (xD).
 - 📫 How to reach me: 
 
             Discord: Igigog#6387
-            E-Mail: id.anpilogov@gmail.com
+            E-Mail: admin@igisaur.com
 
 <!---
 Igigog/Igigog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
