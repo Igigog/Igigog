@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 
             Discord: Igigog#6387
-            E-Mail: admin@igisaur.com
+            E-Mail: contact_github@igisaur.com
 
 <!---
 Igigog/Igigog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
